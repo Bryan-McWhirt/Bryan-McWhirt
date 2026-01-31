@@ -1,7 +1,6 @@
 <h1 align="center">
-     <div>
-          <pre>
-
+<div>
+<pre>
   ____                           __  __   __          ___     _      _   
  |  _ \                         |  \/  |  \ \        / / |   (_)    | |  
  | |_) |_ __ _   _  __ _ _ __   | \  / | __\ \  /\  / /| |__  _ _ __| |_ 
@@ -11,10 +10,8 @@
               __/ |                                                      
              |___/                                                     
 
-
-
-          </pre>
-     </div>
+</pre>
+</div>
 </h1>
 <h3 align="center">A passionate frontend developer from Indiana</h3>
 
